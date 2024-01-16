@@ -21,18 +21,22 @@ for item in set(list_text):
     key = item
     top[key] = list_text.count(item)
 
-#сортируем значения и берем первые 10
-top_values = sorted(top.values(), reverse=True)[:10]
-
-#идем по словарю и вытаскиваем ключи по первым 10 отсортированным значениям, пока не наберем 10 слов
-count = 0
-top_10 = {}
-while count < MAX_COUNT:
-    for value in top_values:
-        for key, values2 in top.items():
-            count += 1
-            if values2 == value:
-                count += 1
-                if key not in top_10.keys():
-                    top_10[key] = value
+top_10 = sorted(top.items(), key=lambda x: x[1], reverse=True)[:10]
 print(top_10)
+
+
+# Вариант до просмотра 4 лекии
+# сортируем значения и берем первые 10
+# top_values = sorted(top.values(), reverse=True)[:10]
+# #идем по словарю и вытаскиваем ключи по первым 10 отсортированным значениям, пока не наберем 10 слов
+# count = 0
+# top_10 = {}
+# while count < MAX_COUNT:
+#     for value in top_values:
+#         for key, values2 in top.items():
+#             count += 1
+#             if values2 == value:
+#                 count += 1
+#                 if key not in top_10.keys():
+#                     top_10[key] = value
+# print(top_10)
