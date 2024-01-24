@@ -22,7 +22,7 @@ for item in set(list_text):
     top[key] = list_text.count(item)
 
 top_10 = sorted(top.items(), key=lambda x: x[1], reverse=True)[:10]
-print(top_10)
+print(*top_10)
 
 
 # Вариант до просмотра 4 лекии
