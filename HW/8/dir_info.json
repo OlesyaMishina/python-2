@@ -1,0 +1,218 @@
+[
+  {
+    "path": ".\\HW_8.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 2074
+  },
+  {
+    "path": ".\\new_users.csv",
+    "root_dir": ".",
+    "type": "file",
+    "size": 245
+  },
+  {
+    "path": ".\\new_users.json",
+    "root_dir": ".",
+    "type": "file",
+    "size": 640
+  },
+  {
+    "path": ".\\new_users.pickle",
+    "root_dir": ".",
+    "type": "file",
+    "size": 256
+  },
+  {
+    "path": ".\\result.json",
+    "root_dir": ".",
+    "type": "file",
+    "size": 290
+  },
+  {
+    "path": ".\\result.pickle",
+    "root_dir": ".",
+    "type": "file",
+    "size": 200
+  },
+  {
+    "path": ".\\result.txt",
+    "root_dir": ".",
+    "type": "file",
+    "size": 205
+  },
+  {
+    "path": ".\\Task_1.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 1031
+  },
+  {
+    "path": ".\\Task_2.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 1961
+  },
+  {
+    "path": ".\\Task_3.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 852
+  },
+  {
+    "path": ".\\Task_4.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 1574
+  },
+  {
+    "path": ".\\Task_5.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 751
+  },
+  {
+    "path": ".\\Task_6.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 1019
+  },
+  {
+    "path": ".\\Task_7.py",
+    "root_dir": ".",
+    "type": "file",
+    "size": 741
+  },
+  {
+    "path": ".\\users.csv",
+    "root_dir": ".",
+    "type": "file",
+    "size": 66
+  },
+  {
+    "path": ".\\users.json",
+    "root_dir": ".",
+    "type": "file",
+    "size": 227
+  },
+  {
+    "path": ".\\users.pickle",
+    "root_dir": ".",
+    "type": "file",
+    "size": 110
+  },
+  {
+    "path": ".",
+    "root_dir": "",
+    "type": "dir",
+    "size": 12242
+  },
+  {
+    "path": ".\\test\\3emwwd.png",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 2968
+  },
+  {
+    "path": ".\\test\\6o4duz9a4sj09wzfnkuuxubummrjlc.avi",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 589
+  },
+  {
+    "path": ".\\test\\75zgs3tha9aeqnxbcx.bin",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 2856
+  },
+  {
+    "path": ".\\test\\9eRENAME00002.NAME",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 2883
+  },
+  {
+    "path": ".\\test\\ava3fs47gx42e5ofxd7l.doc",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1593
+  },
+  {
+    "path": ".\\test\\b0RENAME00003.NAME",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "path": ".\\test\\dhRENAME00005.NAME",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1236
+  },
+  {
+    "path": ".\\test\\g1p3rf9yz36jo1nodyrem.bin",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1447
+  },
+  {
+    "path": ".\\test\\hzm73ykviwi4rxk9ywk.bin",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 527
+  },
+  {
+    "path": ".\\test\\kd_tibst5r8vib3j7hx2kcx7.png",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1842
+  },
+  {
+    "path": ".\\test\\mb2dkbi_2p_0e6zc9w.doc",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 3527
+  },
+  {
+    "path": ".\\test\\p8RENAME00004.NAME",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 1580
+  },
+  {
+    "path": ".\\test\\qydeqf7s.doc",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 2569
+  },
+  {
+    "path": ".\\test\\rxuhwr04.avi",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 3363
+  },
+  {
+    "path": ".\\test\\v1crarvc6s_uyb.png",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 3243
+  },
+  {
+    "path": ".\\test\\xgRENAME00001.NAME",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 2834
+  },
+  {
+    "path": ".\\test\\_zwfz6zs2t3i_j2zrn3x.doc",
+    "root_dir": ".\\test",
+    "type": "file",
+    "size": 3924
+  },
+  {
+    "path": ".\\test",
+    "root_dir": ".",
+    "type": "dir",
+    "size": 38624
+  }
+]

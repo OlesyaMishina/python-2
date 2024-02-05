@@ -10,9 +10,11 @@ def print_matrix(matrix: [[int]]) -> None:
 
 def transposed_matrix(matrix: [[int]]) -> [[int]]:
     transposet_matrix = [[0] * len(matrix) for i in range(len(matrix[0]))]
-    for i in range(len(transposet_matrix)):
-        for j in range(len(transposet_matrix[0])):
-            transposet_matrix[i][j] = matrix[j][i]
+    #
+    # for i in range(len(transposet_matrix)):
+    #     for j in range(len(transposet_matrix[0])):
+    #         transposet_matrix[i][j] = matrix[j][i]
+    transposet_matrix = list(zip(*matrix))
     return transposet_matrix
 
 

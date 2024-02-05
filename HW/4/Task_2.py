@@ -7,7 +7,7 @@ def my_dict(**kwargs) -> dict:
         result[hash(v)] = k
         try:
             v = hash(v)
-            result[v] = k
+            result[v] = str(k)
         except TypeError:
             result[str(v)] = k
     return result
